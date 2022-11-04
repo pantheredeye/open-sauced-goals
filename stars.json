@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "GiorgosKarantonis/Github-Issues-Classifier",
+    "stargazers_count": 10,
+    "open_issues_count": 8,
+    "forks_count": 8
+  },
+  {
     "full_name": "redwoodjs/awesome-redwood",
     "stargazers_count": 181,
     "open_issues_count": 0,
@@ -7,15 +13,15 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 153766,
-    "open_issues_count": 277,
-    "forks_count": 25673
+    "stargazers_count": 154080,
+    "open_issues_count": 275,
+    "forks_count": 25715
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 81597,
+    "stargazers_count": 81736,
     "open_issues_count": 28,
-    "forks_count": 6554
+    "forks_count": 6571
   },
   {
     "full_name": "WiredEnterprise/Lord-of-the-Files",
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui-feature-showcase",
-    "stargazers_count": 516,
+    "stargazers_count": 523,
     "open_issues_count": 14,
-    "forks_count": 37
+    "forks_count": 39
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 6848,
-    "open_issues_count": 33,
-    "forks_count": 744
+    "stargazers_count": 6910,
+    "open_issues_count": 32,
+    "forks_count": 757
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 37322,
+    "stargazers_count": 37367,
     "open_issues_count": 94,
-    "forks_count": 6838
+    "forks_count": 6846
   },
   {
     "full_name": "c9/architect",
@@ -61,13 +67,13 @@
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15054,
-    "open_issues_count": 413,
-    "forks_count": 806
+    "stargazers_count": 15068,
+    "open_issues_count": 416,
+    "forks_count": 812
   },
   {
     "full_name": "protomaps/sdf-glyph-tool",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 3,
     "forks_count": 0
   }
