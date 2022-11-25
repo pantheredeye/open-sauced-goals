@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "TanStack/router",
+    "stargazers_count": 3689,
+    "open_issues_count": 16,
+    "forks_count": 161
+  },
+  {
     "full_name": "GiorgosKarantonis/Github-Issues-Classifier",
     "stargazers_count": 10,
     "open_issues_count": 8,
@@ -7,21 +13,21 @@
   },
   {
     "full_name": "redwoodjs/awesome-redwood",
-    "stargazers_count": 182,
+    "stargazers_count": 183,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 155281,
+    "stargazers_count": 155618,
     "open_issues_count": 276,
-    "forks_count": 25887
+    "forks_count": 25911
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 83017,
+    "stargazers_count": 83222,
     "open_issues_count": 28,
-    "forks_count": 6638
+    "forks_count": 6645
   },
   {
     "full_name": "WiredEnterprise/Lord-of-the-Files",
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui-feature-showcase",
-    "stargazers_count": 560,
+    "stargazers_count": 563,
     "open_issues_count": 14,
     "forks_count": 42
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 7086,
+    "stargazers_count": 7109,
     "open_issues_count": 21,
-    "forks_count": 791
+    "forks_count": 794
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 37828,
-    "open_issues_count": 99,
-    "forks_count": 6910
+    "stargazers_count": 37907,
+    "open_issues_count": 100,
+    "forks_count": 6927
   },
   {
     "full_name": "c9/architect",
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "snaplet/copycat",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -67,12 +73,12 @@
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15125,
-    "open_issues_count": 430,
-    "forks_count": 820
+    "stargazers_count": 15144,
+    "open_issues_count": 423,
+    "forks_count": 822
   },
   {
-    "full_name": "protomaps/sdf-glyph-tool",
+    "full_name": "protomaps/maplibre-font-maker",
     "stargazers_count": 26,
     "open_issues_count": 3,
     "forks_count": 0
