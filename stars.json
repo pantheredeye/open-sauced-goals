@@ -1,9 +1,9 @@
 [
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 3916,
-    "open_issues_count": 15,
-    "forks_count": 179
+    "stargazers_count": 3955,
+    "open_issues_count": 20,
+    "forks_count": 182
   },
   {
     "full_name": "GiorgosKarantonis/Github-Issues-Classifier",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 156349,
+    "stargazers_count": 156603,
     "open_issues_count": 276,
-    "forks_count": 26025
+    "forks_count": 26054
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 84263,
+    "stargazers_count": 84599,
     "open_issues_count": 29,
-    "forks_count": 6688
+    "forks_count": 6698
   },
   {
     "full_name": "WiredEnterprise/Lord-of-the-Files",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui-feature-showcase",
-    "stargazers_count": 584,
+    "stargazers_count": 588,
     "open_issues_count": 16,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 7253,
-    "open_issues_count": 30,
-    "forks_count": 820
+    "stargazers_count": 7297,
+    "open_issues_count": 26,
+    "forks_count": 826
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 38170,
-    "open_issues_count": 96,
-    "forks_count": 6962
+    "stargazers_count": 38235,
+    "open_issues_count": 98,
+    "forks_count": 6966
   },
   {
     "full_name": "c9/architect",
@@ -68,19 +68,19 @@
   {
     "full_name": "MaxHlystov/polling-app-react-frontend",
     "stargazers_count": 3,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 1
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15207,
-    "open_issues_count": 442,
-    "forks_count": 828
+    "stargazers_count": 15232,
+    "open_issues_count": 436,
+    "forks_count": 830
   },
   {
     "full_name": "maplibre/font-maker",
-    "stargazers_count": 39,
+    "stargazers_count": 42,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   }
 ]
