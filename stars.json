@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "bpmn-io/bpmn-js",
+    "stargazers_count": 6793,
+    "open_issues_count": 95,
+    "forks_count": 1111
+  },
+  {
     "full_name": "TanStack/router",
-    "stargazers_count": 3955,
+    "stargazers_count": 3974,
     "open_issues_count": 20,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "GiorgosKarantonis/Github-Issues-Classifier",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 156603,
-    "open_issues_count": 276,
-    "forks_count": 26054
+    "stargazers_count": 156899,
+    "open_issues_count": 277,
+    "forks_count": 26085
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 84599,
-    "open_issues_count": 29,
-    "forks_count": 6698
+    "stargazers_count": 84812,
+    "open_issues_count": 31,
+    "forks_count": 6708
   },
   {
     "full_name": "WiredEnterprise/Lord-of-the-Files",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui-feature-showcase",
-    "stargazers_count": 588,
+    "stargazers_count": 589,
     "open_issues_count": 16,
     "forks_count": 45
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 7297,
-    "open_issues_count": 26,
-    "forks_count": 826
+    "stargazers_count": 7326,
+    "open_issues_count": 25,
+    "forks_count": 832
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 38235,
-    "open_issues_count": 98,
-    "forks_count": 6966
+    "stargazers_count": 38282,
+    "open_issues_count": 100,
+    "forks_count": 6969
   },
   {
     "full_name": "c9/architect",
@@ -62,7 +68,7 @@
   {
     "full_name": "snaplet/copycat",
     "stargazers_count": 200,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 7
   },
   {
@@ -73,14 +79,14 @@
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15232,
-    "open_issues_count": 436,
-    "forks_count": 830
+    "stargazers_count": 15259,
+    "open_issues_count": 430,
+    "forks_count": 833
   },
   {
     "full_name": "maplibre/font-maker",
-    "stargazers_count": 42,
-    "open_issues_count": 0,
+    "stargazers_count": 43,
+    "open_issues_count": 2,
     "forks_count": 2
   }
 ]
