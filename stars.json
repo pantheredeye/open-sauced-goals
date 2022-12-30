@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "LibreTranslate/LibreTranslate",
+    "stargazers_count": 3460,
+    "open_issues_count": 35,
+    "forks_count": 346
+  },
+  {
     "full_name": "bpmn-io/bpmn-js",
-    "stargazers_count": 6808,
+    "stargazers_count": 6814,
     "open_issues_count": 96,
-    "forks_count": 1112
+    "forks_count": 1114
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 4178,
+    "stargazers_count": 4198,
     "open_issues_count": 23,
-    "forks_count": 189
+    "forks_count": 191
   },
   {
     "full_name": "GiorgosKarantonis/Github-Issues-Classifier",
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 157576,
-    "open_issues_count": 278,
-    "forks_count": 26173
+    "stargazers_count": 157928,
+    "open_issues_count": 279,
+    "forks_count": 26201
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 85507,
+    "stargazers_count": 85718,
     "open_issues_count": 33,
-    "forks_count": 6736
+    "forks_count": 6743
   },
   {
     "full_name": "WiredEnterprise/Lord-of-the-Files",
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui-feature-showcase",
-    "stargazers_count": 602,
+    "stargazers_count": 606,
     "open_issues_count": 16,
     "forks_count": 46
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 7447,
+    "stargazers_count": 7505,
     "open_issues_count": 27,
-    "forks_count": 842
+    "forks_count": 849
   },
   {
     "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "stargazers_count": 38433,
+    "stargazers_count": 38490,
     "open_issues_count": 100,
-    "forks_count": 6993
+    "forks_count": 7003
   },
   {
     "full_name": "c9/architect",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "maplibre/font-maker",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 2
   }
